@@ -1,0 +1,4 @@
+Uploaded files by the users will be saved in the database for the session and will be deleted once we have made the
+report only the report will be saved for any user.
+
+Will use plotly express to produce the viz
